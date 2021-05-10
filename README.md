@@ -1,6 +1,6 @@
 # college-notes
 
-Notebooks from my B.Sc. (Hons) Comp Sci degree 1984-1986 @ University of Cape Town. I am putting these up here as they may be of historical interest to someone. E.g. the software engineering courses still advocate waterfall approaches. Some things have changed a lot, and some things have changed little. They also provide an interesting contrast in structure with similar courses in American schools. 
+Notebooks from my B.Sc. (Hons) Comp Sci degree 1984-1986 @ University of Cape Town. I am putting these up here as they may be of historical interest to someone, to see what we studied nearly 4 decades back. E.g. the software engineering courses still advocate waterfall approaches. Some things have changed a lot, and some things have changed not so much. They also provide an interesting contrast in structure with similar courses in American schools. 
 
 Notes:
 
